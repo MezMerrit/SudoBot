@@ -39,4 +39,4 @@ for (const file of fs.readdirSync('./events').filter(file => file.endsWith('.js'
 }
 
 // Login
-client.login(process.env.TOKEN);
+client.login(process.env['TOKEN']);
