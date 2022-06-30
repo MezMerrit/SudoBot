@@ -1,8 +1,5 @@
 const { Client, Collection, Partials } = require('discord.js');
-//const dotenv = require('dotenv');
 const fs = require('fs');
-
-dotenv.config();
 
 // Initialization
 const client = new Client(
