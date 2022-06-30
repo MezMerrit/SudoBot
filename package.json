@@ -13,9 +13,9 @@
   "author": "Mez Merrit",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/MezMerrit/SudoBot/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/MezMerrit/SudoBot",
   "dependencies": {
     "@discordjs/builders": "^0.13.0-dev.1648515278-ac4bc3a",
     "@discordjs/rest": "^0.4.0-dev.1648515278-ac4bc3a",
